@@ -62,3 +62,9 @@
   color: var(--dark-color);
   
 }
+
+
+#footer{
+    background-color: var(--background-color);
+    color: var(--dark-color);
+}
