@@ -67,4 +67,5 @@
 #footer{
     background-color: var(--background-color);
     color: var(--dark-color);
+    font-family: var(--text-font);
 }
