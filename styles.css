@@ -21,6 +21,10 @@ body{
   font-family: var(--title-font);
 }
 
+#hero img{
+  border-radius: 20px;
+}
+
 .btn-primary {
   background-color: var(--primary-color);
   color: var(--secondary-color);
